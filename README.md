@@ -23,7 +23,7 @@ In summary, the code will need to read JSON data, transform it into a DataFrame,
 
 Below is the dashboard that I created with the cleaned dataset:  
 [Link to Interactive Dashboard](https://public.tableau.com/app/profile/douglas1371/viz/BlueBankLoans_16873800924500/LoanDashboard)  
-![Blue Bank Loan Dashboard](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/77f54d2943736edb6ba1c2104ab521c93172f88b/Blue%20Bank/Blue%20Bank%20Loans%20Dashboard.png)
+![Blue Bank Loan Dashboard](https://github.com/DougWicker/Mini-Project-2-Blue-Bank/blob/8f97bc0a394571f428393be68a7fc363b6f865ad/Blue%20Bank/Blue%20Bank%20Loans%20Dashboard.png)
 
 This project was part of a Data Analysis Bootcamp, hosted on Udemy and Created by Dee Naidoo, and contributed to the following certificate:
-![Certificate of Completion](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/main/Bootcamp%20Certificate.jpg)
+![Certificate of Completion](https://github.com/DougWicker/Mini-Project-2-Blue-Bank/blob/8f97bc0a394571f428393be68a7fc363b6f865ad/Bootcamp%20Certificate.jpg)
