@@ -25,5 +25,5 @@ Below is the dashboard that I created with the cleaned dataset:
 [Link to Interactive Dashboard](https://public.tableau.com/app/profile/douglas1371/viz/BlueBankLoans_16873800924500/LoanDashboard)  
 ![Blue Bank Loan Dashboard](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/77f54d2943736edb6ba1c2104ab521c93172f88b/Blue%20Bank/Blue%20Bank%20Loans%20Dashboard.png)
 
-This project was part of a Data Analysis Bootcamp and contrbuted to the following certificate:
+This project was part of a Data Analysis Bootcamp, hosted on Udemy and Created by Dee Naidoo, and contributed to the following certificate:
 ![Certificate of Completion](https://github.com/TupperwareBox/DataAnalyticsShowcase/blob/main/Bootcamp%20Certificate.jpg)
